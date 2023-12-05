@@ -5,7 +5,7 @@
 ---
 
 ### Use
-'''
+```
 $ git clone https://github.com/mokriiik/django_exchange_app.git
 $ cd django-exchange-app/
 $ pip install -r requirements.txt
